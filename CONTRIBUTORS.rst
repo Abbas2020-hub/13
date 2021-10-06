@@ -1,3 +1,3 @@
-* Dominique K. <dominique.k@elico-corp.com.sg>
-* Kitti Upariphutthiphong <kittiu@ecosoft.co.th>
-* Rattapong Chokmasermkul <rattapongc@ecosoft.co.th>
+* Enric Tobella <etobella@creublanca.es>
+* Bhavesh Odedra <bodedra@opensourceintegrators.com>
+* Alberto Martín Cortada <alberto.martin@guadaltech.es>

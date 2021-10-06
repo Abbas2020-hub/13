@@ -1,9 +1,18 @@
-When purchase order is confirmed, a new button "Register Deposit" will appear.
-Normally, deposit will be used to create the 1st invoice (as deposit).
+To use this module, you need to:
 
-#. On confirmed purchase order, click Register Deposit button, wizard will open
-#. 2 type of deposit invoice can be create 1) Down Payment (percentage) 2) Deposit Payment (fixed amount)
-#. Fill in the value and click Create Invoice button.
+#. Go to `Invoicing / Accounting > Adviser > Loans`
+#. Configure a loan selecting the company, loan type, amount, rate and accounts
+#. Post the loan, it will automatically create an account move with the
+   expected amounts
+#. Create automatically the account moves / invoices related to loans and
+   leases before a selected date
 
-As deposit is created, when user click button "Create Bill" again in purchase order,
-the Vendor Bill will be created with deposit amount deducted.
+On a posted loan you can:
+
+* Create moves or invoices (according to the configuration)
+* Modify rates when needed (only unposted lines will be modified)
+* Reduce or cancel the debt of a loan / lease
+
+.. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
+   :alt: Try me on Runbot
+   :target: https://runbot.odoo-community.org/runbot/92/12.0
